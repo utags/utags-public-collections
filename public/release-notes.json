@@ -1,0 +1,82 @@
+{
+  "data": {
+    "https://utags.link/c/public/release-notes#//v0.7": {
+      "tags": [
+        "release-notes",
+        "utags"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.7",
+        "note": "\n- Support displaying shared bookmark collections feature\n  ",
+        "updated": 1747968938257,
+        "created": 1747968855843
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.6": {
+      "tags": [
+        "release-notes",
+        "utags"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.6",
+        "updated": 1747912363026,
+        "created": 1747903300076,
+        "note": "\n- Supported internationalization, added multiple languages\n      "
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.5": {
+      "meta": {
+        "title": "Release Notes - v0.5",
+        "note": "\n- Display list of deleted bookmarks\n- Do not refresh page when switching collections and internal sites\n      ",
+        "created": 1747409400000,
+        "updated": 1747490400000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.4": {
+      "meta": {
+        "title": "Release Notes - v0.4",
+        "note": "\n- Added batch delete bookmarks feature\n- Use advanced tag input box when adding bookmarks\n      ",
+        "created": 1746883800000,
+        "updated": 1746883800000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.3": {
+      "meta": {
+        "title": "Release Notes - v0.3",
+        "note": "\n- Added batch delete tags feature\n      ",
+        "created": 1746842400000,
+        "updated": 1746842400000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.2": {
+      "meta": {
+        "title": "Release Notes - v0.2",
+        "note": "\n- Added select bookmarks feature\n- Added batch add tags feature\n      ",
+        "created": 1746804600000,
+        "updated": 1746804600000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "created": 1746804600000,
+    "updated": 1747912282543,
+    "exported": 1747912371082
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "data": {
+    "https://utags.link/c/public/release-notes#//v0.7": {
+      "tags": [
+        "release-notes",
+        "utags"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.7",
+        "note": "\n- 支持展示共享书签集的功能\n  ",
+        "updated": 1747968938257,
+        "created": 1747968855843
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.6": {
+      "tags": [
+        "release-notes",
+        "utags"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.6",
+        "updated": 1747912363026,
+        "created": 1747903300076,
+        "note": "\n- 支持国际化，已添加多种语言\n      "
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.5": {
+      "meta": {
+        "title": "Release Notes - v0.5",
+        "note": "\n- 显示已删除书签列表\n- 切换收藏集和内部网站时不刷新页面\n      ",
+        "created": 1747409400000,
+        "updated": 1747490400000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.4": {
+      "meta": {
+        "title": "Release Notes - v0.4",
+        "note": "\n- 新增批量删除书签功能\n- 添加书签时，使用高级标签输入框\n      ",
+        "created": 1746883800000,
+        "updated": 1746883800000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.3": {
+      "meta": {
+        "title": "Release Notes - v0.3",
+        "note": "\n- 新增批量删除标签功能\n      ",
+        "created": 1746842400000,
+        "updated": 1746842400000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    },
+    "https://utags.link/c/public/release-notes#//v0.2": {
+      "meta": {
+        "title": "Release Notes - v0.2",
+        "note": "\n- 新增选择书签功能\n- 新增批量添加标签功能\n      ",
+        "created": 1746804600000,
+        "updated": 1746804600000
+      },
+      "tags": [
+        "release-notes",
+        "utags"
+      ]
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "created": 1746804600000,
+    "updated": 1747965262608,
+    "exported": 1747968947416
+  }
+}
