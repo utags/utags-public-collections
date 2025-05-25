@@ -1,15 +1,28 @@
 {
   "data": {
     "https://utags.link/c/public/help#documents": {
-      "meta": {
-        "title": "Documents",
-        "note": "\n- TODO\n      ",
-        "created": 1747409400000,
-        "updated": 1747490400000
-      },
       "tags": [
         "help",
         "utags"
+      ],
+      "meta": {
+        "title": "帮助文档",
+        "note": "- TODO\n- 收藏集是什么？\n- 已保存的筛选器是什么？\n- 已保存的筛选器与收藏集有什么区别？\n- 层级标签是什么？\n- 支持文件夹吗？\n- 如何使用筛选功能？\n- 高级搜索功能\n- AND OR 语法\n- NOT 语法\n- 正则表达式语法\n- 删除的书签如何恢复\n- 如何导出书签\n- 如何导入书签\n",
+        "created": 1747409400000,
+        "updated": 1747490400000
+      }
+    },
+    "https://github.com/orgs/utags/discussions": {
+      "meta": {
+        "title": "反馈与建议",
+        "created": 1748148060833,
+        "updated": 1748148181172
+      },
+      "tags": [
+        "Discussions",
+        "论坛",
+        "社区",
+        "UTags"
       ]
     }
   },
