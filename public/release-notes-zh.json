@@ -1,9 +1,23 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.8": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "部署"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.8",
+        "note": "\n- 支持运行在网站子目录下\n  ",
+        "updated": 1748178000000,
+        "created": 1748178000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.7": {
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "书签集"
       ],
       "meta": {
         "title": "Release Notes - v0.7",
@@ -33,7 +47,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "数据管理",
+        "用户体验"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.4": {
@@ -45,7 +61,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "用户体验",
+        "批量操作"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.3": {
@@ -57,7 +75,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "用户体验",
+        "批量操作"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.2": {
@@ -69,7 +89,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "用户体验",
+        "批量操作"
       ]
     }
   },

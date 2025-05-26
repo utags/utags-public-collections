@@ -1,9 +1,23 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.8": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "deployment"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.8",
+        "note": "\n- Supports running under a subpath of an existing domain.\n  ",
+        "updated": 1748178000000,
+        "created": 1748178000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.7": {
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "bookmark-collections"
       ],
       "meta": {
         "title": "Release Notes - v0.7",
@@ -33,7 +47,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "data-management",
+        "user-experience"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.4": {
@@ -45,7 +61,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "user-experience",
+        "batch-operation"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.3": {
@@ -57,7 +75,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "user-experience",
+        "batch-operation"
       ]
     },
     "https://utags.link/c/public/release-notes#//v0.2": {
@@ -69,7 +89,9 @@
       },
       "tags": [
         "release-notes",
-        "utags"
+        "utags",
+        "user-experience",
+        "batch-operation"
       ]
     }
   },
