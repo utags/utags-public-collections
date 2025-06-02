@@ -1,5 +1,18 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.9": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "batch-operation"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.9",
+        "note": "\n- Added batch restore deleted bookmarks feature\n  ",
+        "updated": 1748786400000,
+        "created": 1748786400000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.8": {
       "tags": [
         "release-notes",
@@ -98,7 +111,7 @@
   "meta": {
     "databaseVersion": 3,
     "created": 1746804600000,
-    "updated": 1747912282543,
-    "exported": 1747912371082
+    "updated": 1748786400000,
+    "exported": 1748786400000
   }
 }

@@ -1,5 +1,18 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.9": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "批量操作"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.9",
+        "note": "\n- 新增批量还原已删除书签功能\n  ",
+        "updated": 1748786400000,
+        "created": 1748786400000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.8": {
       "tags": [
         "release-notes",
@@ -98,7 +111,7 @@
   "meta": {
     "databaseVersion": 3,
     "created": 1746804600000,
-    "updated": 1747965262608,
-    "exported": 1747968947416
+    "updated": 1748786400000,
+    "exported": 1748786400000
   }
 }
