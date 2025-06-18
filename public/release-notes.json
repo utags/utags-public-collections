@@ -1,5 +1,33 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.11": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.11",
+        "note": "\n- Implemented core data synchronization features for GitHub, WebDAV, and UTags extension\n  ",
+        "updated": 1750129200000,
+        "created": 1750129200000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.10": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-import"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.10",
+        "note": "\n- Enhanced data import functionality\n  ",
+        "updated": 1749045600000,
+        "created": 1749045600000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.9": {
       "tags": [
         "release-notes",

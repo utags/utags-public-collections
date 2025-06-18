@@ -1,5 +1,33 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.11": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据同步"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.11",
+        "note": "\n- 实现与 GitHub, WebDAV, UTags 扩展数据同步的核心功能\n  ",
+        "updated": 1750129200000,
+        "created": 1750129200000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.10": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据导入"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.10",
+        "note": "\n- 增强数据导入功能\n  ",
+        "updated": 1749045600000,
+        "created": 1749045600000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.9": {
       "tags": [
         "release-notes",
