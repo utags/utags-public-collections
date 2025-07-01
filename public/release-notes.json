@@ -1,5 +1,20 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.12": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync",
+        "settings"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.12",
+        "note": "\n- Added sync service management functionality in settings\n  ",
+        "updated": 1751371200000,
+        "created": 1751371200000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.11": {
       "tags": [
         "release-notes",
