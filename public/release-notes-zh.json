@@ -1,5 +1,52 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.15": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据同步",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.15",
+        "note": "\n- UTags 扩展与 UTags webapp 集成\n  ",
+        "updated": 1753664400000,
+        "created": 1753664400000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.14": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据同步",
+        "数据导入",
+        "数据导出"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.14",
+        "note": "\n- 优化数据导入导出同步功能\n  ",
+        "updated": 1751529600000,
+        "created": 1751529600000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.13": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据同步",
+        "功能设置",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.13",
+        "note": "\n- 实现与 UTags 扩展数据同步的功能\n  ",
+        "updated": 1750824000000,
+        "created": 1750824000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.12": {
       "tags": [
         "release-notes",
