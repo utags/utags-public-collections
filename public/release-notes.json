@@ -1,5 +1,52 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.15": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.15",
+        "note": "\n- UTags extension integration with UTags webapp\n  ",
+        "updated": 1753664400000,
+        "created": 1753664400000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.14": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync",
+        "data-import",
+        "data-export"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.14",
+        "note": "\n- Optimized data import/export/sync functionality\n  ",
+        "updated": 1751529600000,
+        "created": 1751529600000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.13": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync",
+        "settings",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.13",
+        "note": "\n- Implemented data synchronization functionality with UTags extension\n  ",
+        "updated": 1750824000000,
+        "created": 1750824000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.12": {
       "tags": [
         "release-notes",
