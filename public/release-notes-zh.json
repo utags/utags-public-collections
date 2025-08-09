@@ -1,5 +1,33 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.17": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "数据同步"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.17",
+        "note": "\n- 支持通过 GitHub, WebDAV 同步数据\n  ",
+        "updated": 1754402400000,
+        "created": 1754402400000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.16": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据管理",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.16",
+        "note": "\n- UTags 扩展实现书签的软删除功能\n  ",
+        "updated": 1753776000000,
+        "created": 1753776000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.15": {
       "tags": [
         "release-notes",

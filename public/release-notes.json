@@ -1,5 +1,33 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.17": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "data-sync"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.17",
+        "note": "\n- Support data synchronization via GitHub and WebDAV\n  ",
+        "updated": 1754402400000,
+        "created": 1754402400000
+      }
+    },
+    "https://utags.link/c/public/release-notes#//v0.16": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-management",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.16",
+        "note": "\n- UTags extension implement soft delete for bookmarks\n  ",
+        "updated": 1753776000000,
+        "created": 1753776000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.15": {
       "tags": [
         "release-notes",
