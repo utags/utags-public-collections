@@ -12,6 +12,28 @@
         "updated": 1747490400000
       }
     },
+    "https://github.com/orgs/utags/discussions/59": {
+      "meta": {
+        "title": "WebDAV 同步配置指南",
+        "created": 1748148060833,
+        "updated": 1748148181172
+      },
+      "tags": [
+        "数据同步",
+        "WebDAV"
+      ]
+    },
+    "https://github.com/orgs/utags/discussions/58": {
+      "meta": {
+        "title": "GitHub 同步配置指南",
+        "created": 1748148060833,
+        "updated": 1748148181172
+      },
+      "tags": [
+        "数据同步",
+        "GitHub"
+      ]
+    },
     "https://github.com/orgs/utags/discussions": {
       "meta": {
         "title": "反馈与建议",
@@ -19,10 +41,10 @@
         "updated": 1748148181172
       },
       "tags": [
-        "Discussions",
+        "discussions",
         "论坛",
         "社区",
-        "UTags"
+        "utags"
       ]
     }
   },
