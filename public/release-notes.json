@@ -1,5 +1,19 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.18": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "extension",
+        "new-website"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.18",
+        "note": "\n- Add the website Flickr\n- Add the website Ruanyifeng\n- Add the website Twitch\n- Add the website Yamibo\n- Support special tags on vxna and planet of v2ex.com\n- Support tagging GitHub files and folders\n- Display tags next to GitHub issue titles\n-  ",
+        "updated": 1755313200000,
+        "created": 1755313200000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.17": {
       "tags": [
         "release-notes",

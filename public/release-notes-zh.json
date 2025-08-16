@@ -1,5 +1,19 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.18": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "extension",
+        "适配新网站"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.18",
+        "note": "\n- 适配网站：Flickr\n- 适配网站：阮一峰的网络日志\n- 适配网站：Twitch\n- 适配网站：百合会\n- V2EX.com 的 vxna 和 planet 页面支持特殊标签效果，可屏蔽博客源\n- 支持为 GitHub 文件和文件夹添加标签\n- 在 GitHub issue 标题旁显示标签\n-  ",
+        "updated": 1755313200000,
+        "created": 1755313200000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.17": {
       "tags": [
         "release-notes",
