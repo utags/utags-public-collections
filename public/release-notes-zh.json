@@ -1,5 +1,21 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.19": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "数据同步",
+        "国际化",
+        "用户体验",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.19",
+        "note": "\n- 优化数据同步逻辑，解决数据不一致问题\n- 更新 dmm.co.jp 网站支持\n- 添加语言切换功能\n- 支持更多语言，包括日语、韩语、德语、法语、西班牙语、意大利语、葡萄牙语、俄语、越南语和繁体中文\n- 添加菜单命令来标记当前页面\n- 添加星级特殊标签支持（★★★, ★★, ★, ☆☆☆, ☆☆, ☆），具有优先级排序功能\n  ",
+        "updated": 1756000000000,
+        "created": 1756000000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.18": {
       "tags": [
         "release-notes",

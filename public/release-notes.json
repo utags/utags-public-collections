@@ -1,5 +1,21 @@
 {
   "data": {
+    "https://utags.link/c/public/release-notes#//v0.19": {
+      "tags": [
+        "release-notes",
+        "utags",
+        "data-sync",
+        "internationalization",
+        "user-experience",
+        "extension"
+      ],
+      "meta": {
+        "title": "Release Notes - v0.19",
+        "note": "\n- Optimize data sync logic, solve data inconsistency problem\n- Update dmm.co.jp site support\n- Add language switching functionality\n- Support for more languages including Japanese, Korean, German, French, Spanish, Italian, Portuguese, Russian, Vietnamese, and Traditional Chinese\n- Add menu command to tag current page\n- Add support for star special tags (★★★, ★★, ★, ☆☆☆, ☆☆, ☆) with priority sorting\n  ",
+        "updated": 1756000000000,
+        "created": 1756000000000
+      }
+    },
     "https://utags.link/c/public/release-notes#//v0.18": {
       "tags": [
         "release-notes",
