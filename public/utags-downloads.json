@@ -1,0 +1,115 @@
+{
+  "data": {
+    "https://chromewebstore.google.com/detail/utags-add-usertags-to-lin/kofjcnaphffjoookgahgjidofbdplgig": {
+      "tags": [
+        "utags",
+        "extension",
+        "chrome",
+        "browser-extension",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Chrome Extension",
+        "description": "\nUTags browser extension for Chrome and Chromium-based browsers. Add user tags to links and manage bookmarks efficiently.\n  ",
+        "updated": 1756000007000,
+        "created": 1756000000000
+      }
+    },
+    "https://microsoftedge.microsoft.com/addons/detail/utags-add-usertags-to-l/bhlbflbehfoccjjenpekilgabbjjnphe": {
+      "tags": [
+        "utags",
+        "extension",
+        "edge",
+        "browser-extension",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Edge Extension",
+        "description": "\nUTags browser extension for Microsoft Edge. Add user tags to links and manage bookmarks efficiently.\n  ",
+        "updated": 1756000006000,
+        "created": 1756000000000
+      }
+    },
+    "https://addons.mozilla.org/firefox/addon/utags/": {
+      "tags": [
+        "utags",
+        "extension",
+        "firefox",
+        "browser-extension",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Firefox Extension",
+        "description": "\nUTags browser extension for Firefox. Add user tags to links and manage bookmarks efficiently.\n  ",
+        "updated": 1756000005000,
+        "created": 1756000000000
+      }
+    },
+    "https://greasyfork.org/scripts/460718-utags-add-usertags-to-links": {
+      "tags": [
+        "utags",
+        "userscript",
+        "greasyfork",
+        "tampermonkey",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Userscript - Greasy Fork",
+        "description": "\nUTags userscript for Tampermonkey, Greasemonkey and other userscript managers. Available on Greasy Fork.\n  ",
+        "updated": 1756000004000,
+        "created": 1756000000000
+      }
+    },
+    "https://scriptcat.org/en/script-show-page/2784": {
+      "tags": [
+        "utags",
+        "userscript",
+        "scriptcat",
+        "tampermonkey",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Userscript - ScriptCat",
+        "description": "\nUTags userscript for Tampermonkey, Greasemonkey and other userscript managers. Available on ScriptCat.\n  ",
+        "updated": 1756000003000,
+        "created": 1756000000000
+      }
+    },
+    "https://github.com/utags/utags/raw/main/packages/extension/build/userscript-prod/utags.user.js": {
+      "tags": [
+        "utags",
+        "userscript",
+        "github",
+        "tampermonkey",
+        "download"
+      ],
+      "meta": {
+        "title": "UTags Userscript - GitHub Direct Download",
+        "description": "\nDirect download link for UTags userscript from GitHub repository. Compatible with Tampermonkey, Greasemonkey and other userscript managers.\n  ",
+        "updated": 1756000002000,
+        "created": 1756000000000
+      }
+    },
+    "https://github.com/utags/utags/blob/main/docs/manual-installation.md": {
+      "tags": [
+        "utags",
+        "extension",
+        "manual-installation",
+        "documentation",
+        "guide"
+      ],
+      "meta": {
+        "title": "UTags Extension Manual Installation Guide",
+        "description": "\nStep-by-step guide for manually installing UTags browser extension on Chrome, Edge, and Firefox browsers.\n  ",
+        "updated": 1756000001000,
+        "created": 1756000000000
+      }
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "created": 1756000000000,
+    "updated": 1756000000000,
+    "exported": 1756000000000
+  }
+}

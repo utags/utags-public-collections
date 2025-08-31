@@ -1,0 +1,115 @@
+{
+  "data": {
+    "https://chromewebstore.google.com/detail/utags-add-usertags-to-lin/kofjcnaphffjoookgahgjidofbdplgig": {
+      "tags": [
+        "utags",
+        "扩展",
+        "chrome",
+        "浏览器扩展",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags Chrome 扩展",
+        "description": "\nUTags 浏览器扩展，适用于 Chrome 和基于 Chromium 的浏览器。为链接添加用户标签，高效管理书签。\n  ",
+        "updated": 1756000007000,
+        "created": 1756000000000
+      }
+    },
+    "https://microsoftedge.microsoft.com/addons/detail/utags-add-usertags-to-l/bhlbflbehfoccjjenpekilgabbjjnphe": {
+      "tags": [
+        "utags",
+        "扩展",
+        "edge",
+        "浏览器扩展",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags Edge 扩展",
+        "description": "\nUTags 浏览器扩展，适用于 Microsoft Edge 浏览器。为链接添加用户标签，高效管理书签。\n  ",
+        "updated": 1756000006000,
+        "created": 1756000000000
+      }
+    },
+    "https://addons.mozilla.org/zh-CN/firefox/addon/utags/": {
+      "tags": [
+        "utags",
+        "扩展",
+        "firefox",
+        "浏览器扩展",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags Firefox 扩展",
+        "description": "\nUTags 浏览器扩展，适用于 Firefox 浏览器。为链接添加用户标签，高效管理书签。\n  ",
+        "updated": 1756000005000,
+        "created": 1756000000000
+      }
+    },
+    "https://greasyfork.org/zh-CN/scripts/460718-utags-add-usertags-to-links": {
+      "tags": [
+        "utags",
+        "用户脚本",
+        "greasyfork",
+        "油猴脚本",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags 用户脚本 - Greasy Fork",
+        "description": "\nUTags 用户脚本，适用于 Tampermonkey、Greasemonkey 等用户脚本管理器。在 Greasy Fork 平台提供。\n  ",
+        "updated": 1756000004000,
+        "created": 1756000000000
+      }
+    },
+    "https://scriptcat.org/zh-CN/script-show-page/2784": {
+      "tags": [
+        "utags",
+        "用户脚本",
+        "scriptcat",
+        "油猴脚本",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags 用户脚本 - ScriptCat",
+        "description": "\nUTags 用户脚本，适用于 Tampermonkey、Greasemonkey 等用户脚本管理器。在 ScriptCat 平台提供。\n  ",
+        "updated": 1756000003000,
+        "created": 1756000000000
+      }
+    },
+    "https://github.com/utags/utags/raw/main/packages/extension/build/userscript-prod/utags.user.js": {
+      "tags": [
+        "utags",
+        "用户脚本",
+        "github",
+        "油猴脚本",
+        "下载"
+      ],
+      "meta": {
+        "title": "UTags 用户脚本 - GitHub 直接下载",
+        "description": "\n从 GitHub 仓库直接下载 UTags 用户脚本。兼容 Tampermonkey、Greasemonkey 等用户脚本管理器。\n  ",
+        "updated": 1756000002000,
+        "created": 1756000000000
+      }
+    },
+    "https://github.com/utags/utags/blob/main/docs/manual-installation.zh-CN.md": {
+      "tags": [
+        "utags",
+        "扩展",
+        "手动安装",
+        "文档",
+        "指南"
+      ],
+      "meta": {
+        "title": "UTags 扩展手动安装指南",
+        "description": "\n在 Chrome、Edge 和 Firefox 浏览器上手动安装 UTags 浏览器扩展的详细步骤指南。\n  ",
+        "updated": 1756000001000,
+        "created": 1756000000000
+      }
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "created": 1756000000000,
+    "updated": 1756000000000,
+    "exported": 1756000000000
+  }
+}
